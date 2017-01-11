@@ -12,7 +12,7 @@
 
 ## 效果图如下 ##
 
-![Screenshot](https://raw.githubusercontent.com/amap-demo/android_map_customzoom/master/apk/picture.jpg)
+![Screenshot](https://raw.githubusercontent.com/amap-demo/android_map_customzoom/master/APK/picture.jpg)
              
 ## 扫一扫安装##
-![Screenshot]( https://raw.githubusercontent.com/amap-demo/android_map_customzoom/master/apk/download.png)  
+![Screenshot]( https://raw.githubusercontent.com/amap-demo/android_map_customzoom/master/APK/download.png)  
