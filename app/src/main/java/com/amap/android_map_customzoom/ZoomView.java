@@ -40,7 +40,7 @@ public class ZoomView extends LinearLayout {
         zoomIn.setOnClickListener(onClickListener);
 
         zoomOut = new ImageView(context);
-        zoomIn.setId(R.id.zoomout_view);
+        zoomOut.setId(R.id.zoomout_view);
         zoomOut.setLayoutParams(mParams);
         zoomOut.setScaleType(ImageView.ScaleType.FIT_XY);
         zoomOut.setImageResource(R.drawable.zoomout_v);
