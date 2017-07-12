@@ -10,7 +10,7 @@
         android:theme="@style/AppTheme" >
         <meta-data
             android:name="com.amap.api.v2.apikey"
-            android:value="c492411978a6e2b04e25a0a9cb09eb5c" />
+            android:value="您的key" />
         <activity
             android:name=".MainActivity"
             android:screenOrientation="portrait">
